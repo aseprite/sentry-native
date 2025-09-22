@@ -9,8 +9,8 @@
 	url = https://chromium.googlesource.com/linux-syscall-support
 [submodule "external/crashpad"]
 	path = external/crashpad
-	url = https://github.com/getsentry/crashpad.git
-	branch = getsentry
+	url = https://github.com/aseprite/sentry-crashpad.git
+	branch = aseprite
 [submodule "external/benchmark"]
 	path = external/benchmark
 	url = https://github.com/google/benchmark.git
